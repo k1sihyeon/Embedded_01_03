@@ -11,3 +11,6 @@
 ## 5. 개발 시 문제점 및 해결 방안
 
 ## 6. 데모 영상
+[![Video Label](http://img.youtube.com/vi/1MKW3DmWLwo/0.jpg)](https://youtu.be/1MKW3DmWLwo)
+
+
