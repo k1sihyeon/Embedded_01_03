@@ -21,6 +21,11 @@
 ## 2. 전체 시스템 구조
 ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/a2464e93-52c5-4e32-92e2-6eae61d84213)
 
+ - 전체 회로도
+   ![Sketch1_bbb](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/069f2145-eceb-4e19-a085-9808383d9c76)
+
+
+
 ## 3. 제한 조건 구현 내용
 ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/1e35ae6c-1d63-47ee-9964-1215c30318ab)
 
