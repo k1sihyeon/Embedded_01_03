@@ -31,7 +31,8 @@
 
 - Flow Chart
    - 잠금 장치
-     ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/2b87ddea-5f7a-4fd0-a763-1a483dcef5c5)
+     ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/528bf254-a32c-4853-bc11-71c29c7547cc)
+
 
 
 ## 4. 가산점 요소
