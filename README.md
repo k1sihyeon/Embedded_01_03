@@ -31,7 +31,8 @@
 
 - Flow Chart
    - 잠금 장치
-     ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/528bf254-a32c-4853-bc11-71c29c7547cc)
+     ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/c9e395c9-0530-45cb-a742-4b6da07e79b9)
+
 
 
 
