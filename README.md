@@ -29,6 +29,11 @@
 ## 3. 제한 조건 구현 내용
 ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/1e35ae6c-1d63-47ee-9964-1215c30318ab)
 
+- Flow Chart
+   - 잠금 장치
+     ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/2b87ddea-5f7a-4fd0-a763-1a483dcef5c5)
+
+
 ## 4. 가산점 요소
 ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/1e44d846-de65-4696-bf23-6f901f9e0129)
 - 스마트폰 - 라즈베리 파이 통신
