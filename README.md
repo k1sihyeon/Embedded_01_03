@@ -42,6 +42,8 @@
 - 초기 설정
   1. Serial Bluetooth Terminal 앱 실행
   2. Bluetooth 모듈 연결
+     ![Screenshot_20231220_210624_Serial Bluetooth Terminal](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/829287b2-7507-47e2-9884-98717b291d1b)
+
      
 - 금고 잠금
   1. 금고 문 닫기
