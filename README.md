@@ -37,8 +37,15 @@
    1. 디버그를 통해 송/수신된 값을 지속적으로 검사
    2. softPWM 사용
    3. 다른 UART핀 활성화 (UART2 활성화)
+
+## 6. 유저 사용 설명서
+- 초기 설정
+- 금고 잠금
+- 금고 잠금 해제
+- 도난 방지 알림
+- 내부 온도 확인
       
-## 6. 데모 영상
+## 7. 데모 영상
 [![Video Label](http://img.youtube.com/vi/1MKW3DmWLwo/0.jpg)](https://youtu.be/1MKW3DmWLwo)
 
 
