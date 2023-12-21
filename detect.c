@@ -17,6 +17,7 @@
 #define PRINT_TIME  1000 //출력 시간
 #define BAUD_RATE   115200
 #define BUF_SIZE  10
+
 static const char* I2C_DEV = "/dev/i2c-1"; // I2C
 static const char* UART2_DEV = "/dev/ttyAMA1";
 unsigned char buf[BUF_SIZE];
