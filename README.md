@@ -37,7 +37,8 @@
 
 
 ## 5. 제한 조건 구현 내용
-![image](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/01923719-7b13-4217-94fc-9446fb0274c3)
+![image](https://github.com/k1sihyeon/Embedded_01_03/assets/119331034/30fe70ca-3c16-4929-8510-6fd0213348bc)
+
 
 - Flow Chart
    - 잠금 장치
