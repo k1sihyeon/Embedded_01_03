@@ -22,7 +22,7 @@
 - 온도 센서의 값을 FND LED에 실시간으로 출력해 금고 내부 온도 표시
   
 ## 3. 프로젝트 하드웨어 및 GPIO 핀 구성 요소
-![image](https://github.com/k1sihyeon/Embedded_01_03/assets/119672962/db26d200-23d5-48fc-8756-74692d13ea9b)
+![image](https://github.com/k1sihyeon/Embedded_01_03/assets/119672962/4f9a2de2-1e2f-4d7a-a472-0afdf51703fe)
 
 
 
