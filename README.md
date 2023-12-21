@@ -74,11 +74,7 @@
 
 
 
-## 5. 제한 조건 구현 내용
-![image](https://github.com/k1sihyeon/Embedded_01_03/assets/119331034/30fe70ca-3c16-4929-8510-6fd0213348bc)
-
-
-- Flow Chart
+## 5. 시스템 흐름도
    - 잠금 장치
      ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/c9e395c9-0530-45cb-a742-4b6da07e79b9)
 
@@ -87,7 +83,13 @@
      ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/0c0befef-bfca-4529-8261-1277dede888c)
 
 
-## 6. 가산점 요소
+
+## 6. 제한 조건 구현 내용
+![image](https://github.com/k1sihyeon/Embedded_01_03/assets/119331034/30fe70ca-3c16-4929-8510-6fd0213348bc)
+
+
+
+## 7. 가산점 요소
 ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/1e44d846-de65-4696-bf23-6f901f9e0129)
 - 스마트폰 - 라즈베리 파이 통신
   1. 블루투스 모듈을 사용
@@ -98,7 +100,7 @@
   2. 내부 탐지 장치 라즈베리 파이에서 외부 잠금 장치 라즈베리 파이로 내부에서 감지된 정보를 송신
   3. 외부 잠금 장치 라즈베리 파이에서 내부 탐지 장치 라즈베리 파이로 잠금 및 해제 정보를 송신
 
-## 7. 개발 시 문제점 및 해결 방안
+## 8. 개발 시 문제점 및 해결 방안
  - 문제점
    1. 라즈베리파이 – 라즈베리파이 통신 간 잘못된 값 송/수신
    2. 다수의 GPIO핀 연결로 인한 PWM 연결의 어려움
@@ -109,7 +111,7 @@
    2. softPWM 사용
    3. 다른 UART핀 활성화 (UART2 활성화)
 
-## 8. 유저 사용 설명서
+## 9. 유저 사용 설명서
 - 초기 설정
   1. Serial Bluetooth Terminal 앱 실행
   2. Bluetooth 모듈 연결
@@ -135,7 +137,7 @@
 - 내부 온도 확인
    - 금고 왼쪽의 FND에서 내부 온도를 확인 할 수 있음
       
-## 9. 데모 영상
+## 10. 데모 영상
 [![Video Label](http://img.youtube.com/vi/1MKW3DmWLwo/0.jpg)](https://youtu.be/1MKW3DmWLwo)
  
  - 데모 영상 순서
