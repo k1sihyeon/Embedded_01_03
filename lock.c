@@ -51,6 +51,7 @@ int fd_serial_rasp;
 #define FONT_COUNT  20  //미리 정의된 폰트 개수
 #define PRINT_TIME  2000 //출력 시간
 
+
 //FND에 순서대로(1~12) 연결된 GPIO 포트들
 const int gpio[GPIO_COUNT] = { 17, 27, 22, 10, 9, 11, 12, 7, 8, 25, 24, 23 };
 
