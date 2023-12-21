@@ -21,12 +21,46 @@
 실시간 내부 온도 측정
 - 온도 센서의 값을 FND LED에 실시간으로 출력해 금고 내부 온도 표시
   
-## 3. 프로젝트 하드웨어 구성 요소
+## 3. 프로젝트 하드웨어 및 GPIO 핀 구성 요소
 ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/119672962/e2aae5cb-927d-4fc8-84ff-d45d816331fc)
 
 
 ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/119672962/7ac676a1-c72a-41ef-b4f9-03b73c6d0c05)
 
+#### GPIO 핀 구성
+###### 금고 잠금 장치
+- NFC
+  - NFC 모듈의 데이터 핀: GPI2O
+  - NFC 모듈의 클락 핀: GPIO3
+- 스위치
+  - 스위치의 입력 핀: GPIO21
+- FND
+  - FND 세그먼트: GPIO17,27,22,10,9,11,12,7,8,2,5,24,23
+- 서브모터
+  - 서브모터 제어 핀: GPIO19
+- 부저
+  - 부저 제어 핀: GPIO26
+- 블루투스 모듈
+  - 블루투스 모듈 TX 핀: GPIO27(UART 2번)
+  - 블루투스 모듈 RX 핀: GPIO28(UART 2번)
+- 라즈베리파이 UART 통신
+  - UART TX 핀: GPIO3(UART 3번)
+  - UART RX 핀: GPIO5(UART 3번)
+###### 금고 내부 탐지 장치
+- 초음파 센서
+  - 초음파 센서 TRIG 핀: GPIO15
+  - 초음파 센서 ECHO 핀: GPIO18
+- 자이로 센서
+  - 자이로 센서 SDA 핀: GPIO10
+  - 자이로 센서 SCL 핀: GPIO11
+- 온/습도 센서
+  - 온/습도 센서 SCL 핀: GPIO3
+  - 온/습도 센서 SDA 핀: GPIO2
+- FND
+  - FND 세그먼트: GPIO4,17,27,22,5,6,13,19,26,21,20,16
+- 라즈베리파이 UART 통신
+  - UART TX 핀: GPIO0
+  - UART RX 핀: GPIO1
 ## 4. 전체 시스템 구조
 ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/9a3c5d2d-b6c2-45b8-919c-5aa87928ae3c)
 
