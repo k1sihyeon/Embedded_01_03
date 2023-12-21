@@ -80,6 +80,12 @@
    - 잠금 장치
      ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/c9e395c9-0530-45cb-a742-4b6da07e79b9)
 
+   - 내부 탐지 장치
+     ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/73ccad50-e7b8-4895-9233-9a698fe84f76)
+     ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/0c0befef-bfca-4529-8261-1277dede888c)
+
+
+
 ## 6. 사용한 센서 및 엑추에이터
 
 
