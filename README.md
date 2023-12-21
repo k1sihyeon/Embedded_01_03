@@ -21,19 +21,11 @@
 - 온도 센서의 값을 FND LED에 실시간으로 출력해 금고 내부 온도 표시
   
 ## 3. 프로젝트 하드웨어 구성 요소
-![image](https://github.com/k1sihyeon/Embedded_01_03/assets/119672962/aa223bfd-91e0-483e-9f19-9edf391a49a5)
+![image](https://github.com/k1sihyeon/Embedded_01_03/assets/119672962/e2aae5cb-927d-4fc8-84ff-d45d816331fc)
 
 
-### 센서
-- 초음파 센서
-  - 음파의 송수신 시간을 측정하여 물체와의 거리를 계산하는 센서로, 금고 내의 천장에서 바닥까지의 거리 측정을
-    통한 물체 감지에 활용
-    
-- 자이로 센서
-  - 회전 속도를 측정하는 센서로, 금고의 회전 및 방향 감지를 통해 금고의 움직임을 확인하는데 활용
-    
-- 온습도 센서
-  - 주변 온도와 습도를 측정하는 센서로, 금고 내부의 주변 온도를 측정하는데 사용
+![image](https://github.com/k1sihyeon/Embedded_01_03/assets/119672962/7ac676a1-c72a-41ef-b4f9-03b73c6d0c05)
+
 ## 4. 전체 시스템 구조
 ![image](https://github.com/k1sihyeon/Embedded_01_03/assets/96001080/9a3c5d2d-b6c2-45b8-919c-5aa87928ae3c)
 
