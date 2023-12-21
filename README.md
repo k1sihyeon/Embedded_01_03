@@ -22,10 +22,12 @@
 - 온도 센서의 값을 FND LED에 실시간으로 출력해 금고 내부 온도 표시
   
 ## 3. 프로젝트 하드웨어 및 GPIO 핀 구성 요소
-![image](https://github.com/k1sihyeon/Embedded_01_03/assets/119672962/e2aae5cb-927d-4fc8-84ff-d45d816331fc)
+![image](https://github.com/k1sihyeon/Embedded_01_03/assets/119672962/db26d200-23d5-48fc-8756-74692d13ea9b)
 
 
-![image](https://github.com/k1sihyeon/Embedded_01_03/assets/119672962/7ac676a1-c72a-41ef-b4f9-03b73c6d0c05)
+
+![image](https://github.com/k1sihyeon/Embedded_01_03/assets/119672962/938de50b-48fc-4a78-ba89-e605e0918f73)
+
 
 #### GPIO 핀 구성
 ###### 금고 잠금 장치
